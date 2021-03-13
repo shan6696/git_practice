@@ -14,3 +14,4 @@ issue/a ブランチは一行追記済み
 
 issue/b add
 ad
+insert
